@@ -1,0 +1,9 @@
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Critical\Critical\bin\Debug\Critical.exe
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Critical\Critical\bin\Debug\Critical.pdb
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Critical\Critical\bin\Debug\Critical.xml
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Critical\Critical\obj\x86\Debug\Critical.Critical.resources
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Critical\Critical\obj\x86\Debug\Critical.Resources.resources
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Critical\Critical\obj\x86\Debug\Critical.vbproj.GenerateResource.Cache
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Critical\Critical\obj\x86\Debug\Critical.exe
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Critical\Critical\obj\x86\Debug\Critical.xml
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Critical\Critical\obj\x86\Debug\Critical.pdb
